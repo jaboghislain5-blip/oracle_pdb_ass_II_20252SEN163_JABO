@@ -59,15 +59,3 @@ Oracle Enterprise Manager (OEM) Dashboard displaying database health and perform
 
 ---
 
-## Repository Structure
-
-```text
-oracle_pdb_ass_II_20252SEN163_JABO/
-├── README.md
-└── screenshots/
-    ├── oem_dashboard/
-    │   └── 01_oem_dashboard.png
-    └── pdb_creation/
-        ├── 01_create_pdb_command.png
-        ├── 02_pdb_open_state.png
-        └── 03_create_user_command.png
