@@ -1,7 +1,7 @@
 # Oracle PDB Assignment II
 
-**Student Identifier:** `20252SEN163_JABO`  
-**Course:** Database Management Systems / Oracle Database Administration  
+**Student Identifier:** `20252SEN163_JABO Ghislain`  
+**Course:** Database development with PL/SQL
 
 ---
 
